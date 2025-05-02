@@ -19,6 +19,6 @@ albumDoQueen.AdicionarMusica(musica2);
 queen.AdicionarAlbum(albumDoQueen);
 
 musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
+musica2.ExibirFichaTecnica(); 
 albumDoQueen.ExibirMusicasDoAlbum();
 queen.ExibirDiscografia();
